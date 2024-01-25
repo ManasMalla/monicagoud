@@ -1,0 +1,98 @@
+{
+  "ventures": [
+    {
+      "title": "STEMQuest",
+      "description": "STEMQuest is an educational kit that brings the joy of learning to children to create a unique comprehensive learning experience that keeps children excited, entertained, and educated while fostering creativity and parent child interaction through",
+      "Accomplishments": [
+        {
+          "title": "BUILD-iTIC",
+          "description": "STEMQuest successfully secured a substantial fund of one lakh from the BUILD program. This financial support is a testament to the viability and potential of our project, providing us with the resources needed to bring our vision to life."
+        },
+        {
+          "title": "SmartIdeathon",
+          "Description": "STEMQuest, under my leadership, achieved a significant milestone by securing a spot in the top 32 semi-finals of Smartideathon 2023. Our team's innovative solutions and collaborative approach were recognized, showcasing our prowess in tackling complex challenges. This accomplishment not only highlights our technical prowess but also underscores our commitment to pushing the boundaries of STEM. It is a testament to STEMQuest's dedication to excellence and our ability to thrive in competitive environments. I am proud to lead a team that consistently delivers impactful solutions in cutting-edge competitions, reinforcing our position as a leader in the field."
+        }
+      ],
+      "image": "",
+      "route": ""
+    },
+    {
+      "title": "De.Al",
+      "description": "Revolutionizing Construction Material Procurement. In addressing the pervasive challenges faced by small and mid-size building construction companies, De.Al emerged as a transformative app, streamlining material procurement. Achievements include optimizing on-time delivery, stabilizing prices, and facilitating on-site logistics. The app not only alleviates the procurement struggles but also breathes new life into small-scale construction material manufacturers. Through De.Al, we've successfully bolstered the visibility of numerous MSMEs, ensuring sustained market presence and enabling efficient inventory turnover. Our commitment to resolving these industry pain points underscores De.Al's impact as a vital solution for sustainable growth in the construction sector.",
+      "Accomplishments": [
+        {
+          "title": " MVP Website Launch",
+          "description": "De.Al hit a milestone with the successful launch of its Minimum Viable Product (MVP) website, signaling the first stride in transforming construction material procurement for small to mid-size construction firms. The platform introduces features that enhance on-time delivery, price stability, and on-site logistics, directly addressing industry challenges. This user-friendly website underscores our commitment to innovation, laying the groundwork for the full-scale implementation of De.Al's transformative capabilities"
+        }
+      ],
+      "image": "",
+      "route": ""
+    },
+    {
+      "title": "The Fluffy Stop",
+      "description": "Launching a robust online community within Fluffy Stop to connect pet parents across India. Forums, events, and social features will foster a supportive network, sharing experiences and expertise.",
+      "image": "",
+      "route": ""
+    },
+    {
+      "title": "Cornerstone",
+      "description": "It is India's first customisable ingredient - based organic skincare platform, ensuring that they receive the best organic ingredients for their skin, therefore allowing them to choose their own ingredients. We educate customers about their unique skin type through videos about the importance of skincare routines, different skin types and usage of products.",
+      "Accomplishments": [
+        {
+          "title": "Sales Milestone",
+          "description": "Cornerstone celebrates a significant achievement with the successful completion of 100 sales transactions. Our innovative approach to organic skincare empowers customers to personalize their products, ensuring they receive the finest organic ingredients tailored to their unique skin needs. This milestone not only reflects the market's embrace of our customizable platform but also signifies the growing awareness and appreciation for informed skincare choices. Through engaging educational videos, we've not only secured sales but also fostered a community of informed consumers, highlighting Cornerstone's commitment to redefining skincare experiences in India"
+        }
+      ],
+      "image": "",
+      "route": ""
+    },
+    {
+      "title": "Spanni",
+      "description": "Spanni is a wired podium for all the pet lovers in India, it's the birthplace for making the pet parent(s) lifestyle better by addressing the major challenges like veternary services,mating, spa, accessories etc...",
+      "Accomplishments": [
+        {
+          "title": "Knowledge center",
+          "description": "Spanni, the ultimate haven for pet lovers in India, achieves a significant milestone by launching a comprehensive knowledge center. This innovative hub offers insightful briefs on various pets, addressing essential aspects such as veterinary services, mating, spa treatments, accessories, and nutrition. The knowledge center not only enriches pet owners with valuable information but also cements Spanni's commitment to enhancing the pet parent lifestyle. By providing a one-stop solution for diverse pet-related needs, Spanni is not just a platform; it's a holistic approach to fostering a thriving and informed pet community in India."
+        }
+      ],
+      "image": "",
+      "route": ""
+    },
+    {
+      "title": "Cognito",
+      "description": "Empowering Upper Limb Amputees with Next-Gen Prosthetic Arms with Enhanced Range of Motion,Precise Finger Control,Intuitive User Interface,User-Centric Design",
+      "Accomplishments": [
+        {
+          "title": "Smart India hackathon -2023",
+          "description": "Team Cognito Triumphs in Smart India Hackathon - 2023 Hardware Edition: Securing first place, our innovative project, Empowering Upper Limb Amputees with Next-Gen Prosthetic Arms, impressed with enhanced range of motion, precise finger control, and an intuitive user interface. Recognized for groundbreaking impact, this victory showcases our technical prowess and commitment to transformative assistive technology. Team Cognito's success is a pivotal step towards revolutionizing prosthetics, marking a milestone in fostering inclusivity within healthcare solutions."
+        }
+      ],
+      "image": "",
+      "route": ""
+    },
+    {
+      "title": "Autosmith",
+      "description": "A dynamic app and website offering on-the-go vehicle repair services during emergencies. Our platform ensures immediate assistance with a quality assurance mechanism, providing a reliable solution for individuals stranded on the road. Convenience and trust are paramount, bridging the gap in on-road vehicle repairs seamlessly.",
+      "Accomplishments": [
+        {
+          "title": "Smart India hackathon -2023",
+          "description": "Team Autosmith emerged victorious in the Smart India Hackathon - Internal Software Edition. Our innovative dynamic app and website, designed for on-the-go vehicle repair services during emergencies, secured the win. The platform guarantees immediate assistance and incorporates a quality assurance mechanism, offering a dependable solution for individuals stranded on the road. This achievement underscores our commitment to convenience and trust, successfully bridging the gap in on-road vehicle repairs and earning recognition in the prestigious hackathon"
+        }
+      ],
+      "image": "",
+      "route": ""
+    },
+    {
+      "title": "FarmInnoTech",
+      "description": "Developing smart, affordable, and user-friendly agricultural tools tailored for Indian farmers. These tools automate farming processes, ensuring increased crop yield, reduced workload, and cost-effective cultivation for enhanced profitability.",
+      "Accomplishments": [
+        {
+          "title": "Pioneering Smart Agriculture Solutions",
+          "description": "Farminnotech achieved a milestone by incorporating as a private limited company. Our dedication to developing smart, affordable, and user-friendly agricultural tools for Indian farmers showcases innovation. These tools automate farming processes, enhancing crop yield, reducing workload, and ensuring cost-effective cultivation, ultimately contributing to increased profitability in Indian agriculture."
+        }
+      ],
+      "image": "",
+      "route": ""
+    }
+  ]
+}
