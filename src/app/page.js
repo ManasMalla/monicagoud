@@ -29,7 +29,10 @@ export default function Home() {
         <div className="grid grid-cols-3 grow gap-8 ml-24">
           {skills["skills"].slice(0, 6).map((item, index) => {
             return (
-              <div className="aspect-[1.26] w-full bg-white text-black p-10 py-12 h-full space-y-4">
+              <div
+                key={index}
+                className="aspect-[1.26] w-full bg-white text-black p-10 py-12 h-full space-y-4"
+              >
                 <Info />
                 <div className="space-y-1">
                   <p>{item.title}</p>
