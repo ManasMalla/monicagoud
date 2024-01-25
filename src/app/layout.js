@@ -15,8 +15,8 @@ export default function RootLayout({ children }) {
         rel="stylesheet"
         href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200"
       />
-      <body className={`${inter.className} bg-[#AD8DC5] text-white`}>
-        <nav className="w-screen flex justify-between px-16 py-12 text-xl">
+      <body className={`${inter.className} text-white`}>
+        <nav className="w-screen flex justify-between px-16 py-12 text-xl bg-[#AD8DC5]">
           <p className="font-bold">monica goud</p>
           <ul className="flex gap-x-8">
             <li>
