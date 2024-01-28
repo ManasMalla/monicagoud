@@ -13,10 +13,10 @@ export default function Ventures() {
       </div>
       <div className="text-black flex py-7 space-x-20 scroll-animation">
         {ventures["ventures"].map((e) => {
-          return <img src={e.image} className="w-24 h-24" />;
+          return <img key={e.title} src={e.image} className="w-24 h-24" />;
         })}
         {ventures["ventures"].map((e) => {
-          return <img src={e.image} className="w-24 h-24" />;
+          return <img key={e.image} src={e.image} className="w-24 h-24" />;
         })}
       </div>
     </div>
