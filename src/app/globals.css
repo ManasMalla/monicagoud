@@ -7,3 +7,12 @@
     text-wrap: balance;
   }
 }
+
+.scroll-animation{
+  animation: slideshow 10s linear infinite;
+}
+
+@keyframes slideshow {
+  0%    { translate: 0%; }
+  100%  { translate: -110% }
+}
