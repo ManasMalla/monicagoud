@@ -11,12 +11,12 @@ export default function Landing() {
             <h1>Venturing is my ikigai</h1>
           </div>
           <div className="space-y-4">
-            <h2 className="text-3xl font-bold">Hello, I'm Monica Goud</h2>
+            <h2 className="text-3xl font-bold">Hello, I&quot;m Monica Goud</h2>
             <p className="w-[42ch]">
               a seasoned startup mentor with three years of experience dedicated
-              to guiding and enhancing the success of innovative startups. Let's
-              embark on a journey of turning ideas into thriving businesses
-              together.
+              to guiding and enhancing the success of innovative startups.
+              Let&quot;s embark on a journey of turning ideas into thriving
+              businesses together.
             </p>
           </div>
           <div className="space-x-4">
