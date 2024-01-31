@@ -19,7 +19,7 @@ export default function Home() {
         <div>
           <p className="font-bold">monica goud</p>
           <p className="font-light w-56 text-base">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit
+            Turning ideas into thriving businesses together
           </p>
         </div>
         <ul className="flex gap-x-8">

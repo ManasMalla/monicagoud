@@ -14,10 +14,9 @@ export default function Skills() {
           humans
         </h3>
         <p className="w-[25ch]">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent
-          lectus massa, semper et feugiat nec, luctus quis leo. Maecenas vel
-          orci ut orci tincidunt euismod a at ipsum. Nulla dapibus vitae nisi
-          nec condimentum.
+          With my startup background, I bring a lean mindset for building
+          products fast and my project management background uniquely connects
+          me to building products that understand and enhance user experiences.
         </p>
       </div>
       <div className="grid grid-cols-3 grow gap-8 ml-24">
