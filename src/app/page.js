@@ -4,6 +4,7 @@ import Work from "@/components/work";
 import Skills from "@/components/skills";
 import Ventures from "@/components/ventures";
 import LeadershipPrograms from "@/components/leadership-programs";
+import Certificates from "@/components/certificates";
 
 export default function Home() {
   return (
@@ -11,7 +12,7 @@ export default function Home() {
       <Landing />
       <Work />
       <Skills />
-      <div className="py-10"></div>
+      <Certificates />
       <Ventures />
       <LeadershipPrograms />
 

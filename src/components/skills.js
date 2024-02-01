@@ -26,7 +26,11 @@ export default function Skills() {
               key={index}
               className="aspect-[1.26] w-full bg-white text-black p-10 py-12 h-full space-y-4"
             >
-              <Info />
+              {item.image == "" ? (
+                <Info />
+              ) : (
+                <img src={item.image} className="w-7 h-7" />
+              )}
               <div className="space-y-1">
                 <p>{item.title}</p>
                 <p className="text-sm line-clamp-4 opacity-50">
