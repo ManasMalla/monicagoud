@@ -3,7 +3,7 @@ import { Info } from "react-feather";
 
 export default function Skills() {
   return (
-    <div className="bg-[#AD8DC5] w-full py-20 px-16 flex">
+    <div className="bg-[#AD8DC5] w-full py-10 md:py-20 px-8 md:px-16 flex flex-col md:flex-row gap-y-8">
       <div className="space-y-4">
         <p className="uppercase">My Skills</p>
         <h3 className="text-4xl">
@@ -19,7 +19,7 @@ export default function Skills() {
           me to building products that understand and enhance user experiences.
         </p>
       </div>
-      <div className="grid grid-cols-3 grow gap-8 ml-24">
+      <div className="grid md:grid-cols-3 grow gap-8 md:ml-24">
         {skills["skills"].slice(0, 6).map((item, index) => {
           return (
             <div

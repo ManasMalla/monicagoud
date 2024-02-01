@@ -1,7 +1,7 @@
 import { ArrowUpRight } from "react-feather";
 export default function Certificates() {
   return (
-    <div className="w-full text-black p-16 space-y-6">
+    <div className="w-full text-black p-8 md:p-16 space-y-6">
       <div className="flex text-[#5D57A1] text-2xl justify-between items-center">
         <h3>My Certificates</h3>
         <div className="flex items-center gap-x-2 text-xl">
@@ -9,7 +9,7 @@ export default function Certificates() {
           <ArrowUpRight />
         </div>
       </div>
-      <div className="grid grid-cols-3 gap-x-8 gap-y-6">
+      <div className="grid grid-cols-2 md:grid-cols-3 gap-x-8 gap-y-6">
         {[
           "foundations-project-management.png",
           "project-initiation.png",

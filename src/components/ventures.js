@@ -3,7 +3,7 @@ import { ArrowUpRight } from "react-feather";
 
 export default function Ventures() {
   return (
-    <div className="py-10 w-full px-16 bg-[#AD8DC5] overflow-clip">
+    <div className="py-5 md:py-10 w-full px-8 md:px-16 bg-[#AD8DC5] overflow-clip">
       <div className="flex text-white text-2xl justify-between items-center">
         <h3>My Ventures</h3>
         <div className="flex items-center gap-x-2 text-xl">

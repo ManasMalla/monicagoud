@@ -3,8 +3,8 @@ import { Globe, Instagram, Linkedin, Twitter } from "react-feather";
 
 export default function Landing() {
   return (
-    <div className="bg-[#AD8DC5] w-full  py-20 px-16">
-      <div className="flex gap-x-12 w-full">
+    <div className="bg-[#AD8DC5] w-full py-10 md:py-20 px-8 md:px-16">
+      <div className="flex flex-col md:flex-row gap-x-12 w-full">
         <div className="grow space-y-6">
           <div className="flex items-center gap-x-4">
             <div className="w-10 h-[2px] bg-white" />
@@ -12,7 +12,7 @@ export default function Landing() {
           </div>
           <div className="space-y-4">
             <h2 className="text-3xl font-bold">Hello, I&quot;m Monica Goud</h2>
-            <p className="w-[42ch]">
+            <p className="md:w-[42ch]">
               a seasoned startup mentor with three years of experience dedicated
               to guiding and enhancing the success of innovative startups.
               Let&quot;s embark on a journey of turning ideas into thriving
@@ -42,9 +42,9 @@ export default function Landing() {
             </ul>
           </div>
         </div>
-        <img src="/landing.png" className="h-96" />
+        <img src="/landing.png" className="hidden md:flex md:h-96" />
       </div>
-      <div className="h-20" />
+      <div className="h-10 md:h-20" />
       <div className="bg-[#FFDFE8]/50 py-9 w-full text-center rounded-2xl">
         <p className="font-semibold text-xl">Want to know more about?</p>
         <p>Here is my story :&#41;</p>

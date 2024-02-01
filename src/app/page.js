@@ -16,14 +16,14 @@ export default function Home() {
       <Ventures />
       <LeadershipPrograms />
 
-      <div className="w-screen flex justify-between items-center px-16 py-10 text-xl bg-[#DDAFCC] ">
+      <div className="w-screen flex flex-col-reverse md:flex-row justify-between items-start gap-y-4 md:items-center px-8 py-5 md:px-16 md:py-10 text-xl bg-[#DDAFCC] ">
         <div>
           <p className="font-bold">monica goud</p>
           <p className="font-light w-56 text-base">
             Turning ideas into thriving businesses together
           </p>
         </div>
-        <ul className="flex gap-x-8">
+        <ul className="hidden md:flex gap-x-8">
           <li>
             <a>work</a>
           </li>
