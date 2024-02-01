@@ -12,6 +12,14 @@
   animation: slideshow 10s linear infinite;
 }
 
+@media screen and (max-width: 768px) {
+  .scroll-animation {
+    
+  animation: slideshow 6s linear infinite;
+  }
+  
+}
+
 @keyframes slideshow {
   0%    { translate: 0%; }
   100%  { translate: -110% }
