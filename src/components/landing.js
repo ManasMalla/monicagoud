@@ -11,7 +11,7 @@ export default function Landing() {
             <h1>Venturing is my ikigai</h1>
           </div>
           <div className="space-y-4">
-            <h2 className="text-3xl font-bold">Hello, I&quot;m Monica Goud</h2>
+            <h2 className="text-3xl font-bold">Hello, I&#39;m Monica Goud</h2>
             <p className="md:w-[42ch]">
               a seasoned startup mentor with three years of experience dedicated
               to guiding and enhancing the success of innovative startups.
@@ -34,7 +34,7 @@ export default function Landing() {
             <Globe />
           </div>
           <div className="flex gap-x-4">
-            <span class="material-symbols-outlined">campaign</span>
+            <span className="material-symbols-outlined">campaign</span>
             <ul className="flex gap-x-4 opacity-75">
               <li>Hindi</li>
               <li>English</li>

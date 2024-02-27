@@ -30,9 +30,12 @@ export default function RootLayout({ children }) {
               <a>contact</a>
             </li>
           </ul>
-          <button className="bg-[#D6A7D0]  hidden md:flex px-4 py-1 rounded-md text-base font-bold">
+          <a
+            className="bg-[#D6A7D0]  hidden md:flex px-4 py-1 rounded-md text-base font-bold"
+            href="resume.pdf"
+          >
             resume
-          </button>
+          </a>
           <Menu className="w-6 h-6 md:hidden" />
         </nav>
         {children}

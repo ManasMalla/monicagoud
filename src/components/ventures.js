@@ -1,4 +1,5 @@
 import ventures from "@/data/ventures.json";
+import Link from "next/link";
 import { ArrowUpRight } from "react-feather";
 
 export default function Ventures() {
@@ -13,10 +14,28 @@ export default function Ventures() {
       </div>
       <div className="text-black flex py-7 space-x-20 scroll-animation">
         {ventures["ventures"].map((e) => {
-          return <img key={e.title} src={e.image} className="w-24 h-24" />;
+          return (
+            <img
+              key={e.title}
+              src={e.image}
+              className="w-24 h-24 cursor-pointer"
+              onClick={() => {
+                window.open(e.route, "_blank");
+              }}
+            />
+          );
         })}
         {ventures["ventures"].map((e) => {
-          return <img key={e.image} src={e.image} className="w-24 h-24" />;
+          return (
+            <img
+              key={e.title}
+              src={e.image}
+              className="w-24 h-24 cursor-pointer"
+              onClick={() => {
+                window.open(e.route, "_blank");
+              }}
+            />
+          );
         })}
       </div>
     </div>

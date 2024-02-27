@@ -34,9 +34,12 @@ export default function Home() {
             <a>contact</a>
           </li>
         </ul>
-        <button className="bg-white px-4 py-1 rounded-md text-base text-[#5D57A1] font-semibold">
+        <a
+          className="bg-white px-4 py-1 rounded-md text-base text-[#5D57A1] font-semibold"
+          href="resume.pdf"
+        >
           resume
-        </button>
+        </a>
       </div>
     </main>
   );

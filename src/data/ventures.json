@@ -14,7 +14,7 @@
         }
       ],
       "image": "ventures/logos/stemquest.png",
-      "route": ""
+      "route": "/ventures?id=stemquest"
     },
     {
       "title": "De.Al",
@@ -26,7 +26,7 @@
         }
       ],
       "image": "ventures/logos/de.al.png",
-      "route": ""
+      "route": "/ventures?id=de.al"
     },
     {
       "title": "The Fluffy Stop",
@@ -80,7 +80,7 @@
         }
       ],
       "image": "ventures/logos/autosmith.png",
-      "route": ""
+      "route": "https://autosmith.theananta.in"
     },
     {
       "title": "FarmInnoTech",
